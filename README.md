@@ -12,6 +12,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0006-zigzag-conversion](https://github.com/Rajchetan36/Leetcode/tree/main/0006-zigzag-conversion/) | Medium |
 | [0020-valid-parentheses](https://github.com/Rajchetan36/Leetcode/tree/main/0020-valid-parentheses/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
