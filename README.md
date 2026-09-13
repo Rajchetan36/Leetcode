@@ -6,6 +6,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Rajchetan36/Leetcode/tree/main/0001-two-sum/) | Easy |
 | [0011-container-with-most-water](https://github.com/Rajchetan36/Leetcode/tree/main/0011-container-with-most-water/) | Medium |
+| [0014-longest-common-prefix](https://github.com/Rajchetan36/Leetcode/tree/main/0014-longest-common-prefix/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -17,6 +18,7 @@
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Rajchetan36/Leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0006-zigzag-conversion](https://github.com/Rajchetan36/Leetcode/tree/main/0006-zigzag-conversion/) | Medium |
+| [0014-longest-common-prefix](https://github.com/Rajchetan36/Leetcode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0020-valid-parentheses](https://github.com/Rajchetan36/Leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Rajchetan36/Leetcode/tree/main/0395-longest-substring-with-at-least-k-repeating-characters/) | Medium |
 ## Stack
@@ -65,4 +67,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Rajchetan36/Leetcode/tree/main/0011-container-with-most-water/) | Medium |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/Rajchetan36/Leetcode/tree/main/0014-longest-common-prefix/) | Easy |
 <!---LeetCode Topics End-->
