@@ -39,6 +39,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0009-palindrome-number](https://github.com/Rajchetan36/Leetcode/tree/main/0009-palindrome-number/) | Easy |
 | [1025-divisor-game](https://github.com/Rajchetan36/Leetcode/tree/main/1025-divisor-game/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
