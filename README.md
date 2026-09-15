@@ -20,6 +20,7 @@
 | [0006-zigzag-conversion](https://github.com/Rajchetan36/Leetcode/tree/main/0006-zigzag-conversion/) | Medium |
 | [0014-longest-common-prefix](https://github.com/Rajchetan36/Leetcode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0020-valid-parentheses](https://github.com/Rajchetan36/Leetcode/tree/main/0020-valid-parentheses/) | Easy |
+| [0072-edit-distance](https://github.com/Rajchetan36/Leetcode/tree/main/0072-edit-distance/) | Medium |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Rajchetan36/Leetcode/tree/main/0395-longest-substring-with-at-least-k-repeating-characters/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
@@ -47,6 +48,7 @@
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0072-edit-distance](https://github.com/Rajchetan36/Leetcode/tree/main/0072-edit-distance/) | Medium |
 | [1025-divisor-game](https://github.com/Rajchetan36/Leetcode/tree/main/1025-divisor-game/) | Easy |
 ## Brainteaser
 | Problem Name | Difficulty |
