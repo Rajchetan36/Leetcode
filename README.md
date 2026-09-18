@@ -21,6 +21,7 @@
 | [0014-longest-common-prefix](https://github.com/Rajchetan36/Leetcode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0020-valid-parentheses](https://github.com/Rajchetan36/Leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0072-edit-distance](https://github.com/Rajchetan36/Leetcode/tree/main/0072-edit-distance/) | Medium |
+| [0125-valid-palindrome](https://github.com/Rajchetan36/Leetcode/tree/main/0125-valid-palindrome/) | Easy |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Rajchetan36/Leetcode/tree/main/0395-longest-substring-with-at-least-k-repeating-characters/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
@@ -67,6 +68,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Rajchetan36/Leetcode/tree/main/0011-container-with-most-water/) | Medium |
+| [0125-valid-palindrome](https://github.com/Rajchetan36/Leetcode/tree/main/0125-valid-palindrome/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
