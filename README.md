@@ -8,6 +8,7 @@
 | [0011-container-with-most-water](https://github.com/Rajchetan36/Leetcode/tree/main/0011-container-with-most-water/) | Medium |
 | [0014-longest-common-prefix](https://github.com/Rajchetan36/Leetcode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0015-3sum](https://github.com/Rajchetan36/Leetcode/tree/main/0015-3sum/) | Medium |
+| [0075-sort-colors](https://github.com/Rajchetan36/Leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rajchetan36/Leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/Rajchetan36/Leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Rajchetan36/Leetcode/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
@@ -73,6 +74,7 @@
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Rajchetan36/Leetcode/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/Rajchetan36/Leetcode/tree/main/0015-3sum/) | Medium |
+| [0075-sort-colors](https://github.com/Rajchetan36/Leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0125-valid-palindrome](https://github.com/Rajchetan36/Leetcode/tree/main/0125-valid-palindrome/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rajchetan36/Leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/Rajchetan36/Leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -97,6 +99,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/Rajchetan36/Leetcode/tree/main/0015-3sum/) | Medium |
+| [0075-sort-colors](https://github.com/Rajchetan36/Leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/Rajchetan36/Leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Rajchetan36/Leetcode/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 ## Binary Search
@@ -104,4 +107,12 @@
 | ------- | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rajchetan36/Leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Rajchetan36/Leetcode/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
+## Quicksort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0075-sort-colors](https://github.com/Rajchetan36/Leetcode/tree/main/0075-sort-colors/) | Medium |
+## Bubble Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0075-sort-colors](https://github.com/Rajchetan36/Leetcode/tree/main/0075-sort-colors/) | Medium |
 <!---LeetCode Topics End-->
