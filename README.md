@@ -27,6 +27,7 @@
 | [0020-valid-parentheses](https://github.com/Rajchetan36/Leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0072-edit-distance](https://github.com/Rajchetan36/Leetcode/tree/main/0072-edit-distance/) | Medium |
 | [0125-valid-palindrome](https://github.com/Rajchetan36/Leetcode/tree/main/0125-valid-palindrome/) | Easy |
+| [0344-reverse-string](https://github.com/Rajchetan36/Leetcode/tree/main/0344-reverse-string/) | Easy |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Rajchetan36/Leetcode/tree/main/0395-longest-substring-with-at-least-k-repeating-characters/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
@@ -77,6 +78,7 @@
 | [0075-sort-colors](https://github.com/Rajchetan36/Leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0125-valid-palindrome](https://github.com/Rajchetan36/Leetcode/tree/main/0125-valid-palindrome/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rajchetan36/Leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0344-reverse-string](https://github.com/Rajchetan36/Leetcode/tree/main/0344-reverse-string/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/Rajchetan36/Leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Rajchetan36/Leetcode/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 ## Greedy
