@@ -9,6 +9,7 @@
 | [0014-longest-common-prefix](https://github.com/Rajchetan36/Leetcode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0015-3sum](https://github.com/Rajchetan36/Leetcode/tree/main/0015-3sum/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/Rajchetan36/Leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Rajchetan36/Leetcode/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -73,6 +74,7 @@
 | [0015-3sum](https://github.com/Rajchetan36/Leetcode/tree/main/0015-3sum/) | Medium |
 | [0125-valid-palindrome](https://github.com/Rajchetan36/Leetcode/tree/main/0125-valid-palindrome/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/Rajchetan36/Leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Rajchetan36/Leetcode/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -94,4 +96,9 @@
 | ------- | ------- |
 | [0015-3sum](https://github.com/Rajchetan36/Leetcode/tree/main/0015-3sum/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/Rajchetan36/Leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Rajchetan36/Leetcode/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Rajchetan36/Leetcode/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 <!---LeetCode Topics End-->
