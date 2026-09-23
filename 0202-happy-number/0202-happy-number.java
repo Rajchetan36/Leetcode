@@ -1,9 +1,9 @@
 class Solution {
-    public int squareHelper(int n){
+    public int Helper(int n){
         int sum=0;
         while(n>0){
-            int d=n%10;
-            sum=sum + (d*d);
+            int digit =n%10;
+            sum=sum+(digit * digit);
             n=n/10;
         }
         return sum;
@@ -12,14 +12,16 @@ class Solution {
         int slow=n;
         int fast=n;
         while(fast!=1){
-            slow=squareHelper(slow);
-            fast=squareHelper(squareHelper(fast));
+            slow=Helper(slow);
+            fast=Helper(Helper(fast));
             if(fast==1){
                 return true;
             }
             if(slow==fast){
                 return false;
             }
+
+
         }
         return true;
     }
