@@ -9,6 +9,7 @@
 | [0014-longest-common-prefix](https://github.com/Rajchetan36/Leetcode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0015-3sum](https://github.com/Rajchetan36/Leetcode/tree/main/0015-3sum/) | Medium |
 | [0075-sort-colors](https://github.com/Rajchetan36/Leetcode/tree/main/0075-sort-colors/) | Medium |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Rajchetan36/Leetcode/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rajchetan36/Leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/Rajchetan36/Leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/Rajchetan36/Leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -46,6 +47,7 @@
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Rajchetan36/Leetcode/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Rajchetan36/Leetcode/tree/main/0395-longest-substring-with-at-least-k-repeating-characters/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -151,4 +153,16 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Rajchetan36/Leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Rajchetan36/Leetcode/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Rajchetan36/Leetcode/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Rajchetan36/Leetcode/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 <!---LeetCode Topics End-->
