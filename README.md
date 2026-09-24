@@ -38,6 +38,7 @@
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Rajchetan36/Leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/Rajchetan36/Leetcode/tree/main/0232-implement-queue-using-stacks/) | Easy |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Rajchetan36/Leetcode/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -90,6 +91,7 @@
 | [0680-valid-palindrome-ii](https://github.com/Rajchetan36/Leetcode/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/Rajchetan36/Leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/Rajchetan36/Leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Rajchetan36/Leetcode/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Rajchetan36/Leetcode/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
@@ -140,6 +142,7 @@
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/Rajchetan36/Leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/Rajchetan36/Leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Rajchetan36/Leetcode/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
