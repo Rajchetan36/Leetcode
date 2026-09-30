@@ -32,11 +32,12 @@ class Solution {
             if(i.val!=j.val){
                 return false;
             }
+
             i=i.next;
             j=j.next;
         }
         return true;
 
-        
+
     }
 }
